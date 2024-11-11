@@ -33,7 +33,7 @@ The following questions shall be answered:
 3. Is it possible to predict health insurance costs from the given features?
 
 ## Results <a name="results"></a>
-Main results can be found on the blog post
+Main results can be found on the [blog post](https://github.com/dsimons-private/medical-insurance-data-prj/blob/main/_posts/2024-11-06_Medical_Insurance_Project_Blog_Post.md)
 
 ## Licence <a name="license"></a>
 Credit to Miri Choi for providing the data set which can be found here (Please find also licesing information there): 
